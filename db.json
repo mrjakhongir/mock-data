@@ -20,5 +20,35 @@
 			"id": 4,
 			"rating": "$100 - $125"
 		}
+	],
+	"skills": [
+		{ "id": 1, "skill": "Engineering Manager" },
+		{
+			"id": 2,
+			"skill": "Architect"
+		},
+		{
+			"id": 3,
+			"skill": "Designer"
+		},
+		{ "id": 4, "skill": "Engineer" }
+	],
+	"tools": [
+		{
+			"id": 1,
+			"tool": "AutoCAD"
+		},
+		{
+			"id": 2,
+			"tool": "Archive"
+		},
+		{
+			"id": 3,
+			"tool": "Argo"
+		},
+		{
+			"id": 4,
+			"tool": "Archicad"
+		}
 	]
 }
