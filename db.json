@@ -3,63 +3,63 @@
 		{
 			"id": 1,
 			"rating": "I'd prefer not to say",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 2,
 			"rating": "$25 - $50",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 5,
 			"rating": "$50 - $75",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 3,
 			"rating": "$75 - $100",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 4,
 			"rating": "$100 - $125",
-			"selected": false
+			"isSelected": false
 		}
 	],
 	"skills": [
-		{ "id": 1, "tag": "Engineering Manager", "selected": false },
+		{ "id": 1, "tag": "Engineering Manager", "isSelected": false },
 		{
 			"id": 2,
 			"tag": "Architect",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 3,
 			"tag": "Designer",
-			"selected": false
+			"isSelected": false
 		},
-		{ "id": 4, "tag": "Engineer", "selected": false }
+		{ "id": 4, "tag": "Engineer", "isSelected": false }
 	],
 	"tools": [
 		{
 			"id": 1,
 			"tag": "AutoCAD",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 2,
 			"tag": "Archive",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 3,
 			"tag": "Argo",
-			"selected": false
+			"isSelected": false
 		},
 		{
 			"id": 4,
 			"tag": "Archicad",
-			"selected": false
+			"isSelected": false
 		}
 	]
 }
