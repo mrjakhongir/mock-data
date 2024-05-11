@@ -2,10 +2,14 @@
 	"ratings": [
 		{
 			"id": 1,
-			"rating": "$25 - $50"
+			"rating": "I'd prefer not to say"
 		},
 		{
 			"id": 2,
+			"rating": "$25 - $50"
+		},
+		{
+			"id": 5,
 			"rating": "$50 - $75"
 		},
 		{
