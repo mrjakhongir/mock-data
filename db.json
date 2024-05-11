@@ -2,53 +2,64 @@
 	"ratings": [
 		{
 			"id": 1,
-			"rating": "I'd prefer not to say"
+			"rating": "I'd prefer not to say",
+			"selected": false
 		},
 		{
 			"id": 2,
-			"rating": "$25 - $50"
+			"rating": "$25 - $50",
+			"selected": false
 		},
 		{
 			"id": 5,
-			"rating": "$50 - $75"
+			"rating": "$50 - $75",
+			"selected": false
 		},
 		{
 			"id": 3,
-			"rating": "$75 - $100"
+			"rating": "$75 - $100",
+			"selected": false
 		},
 		{
 			"id": 4,
-			"rating": "$100 - $125"
+			"rating": "$100 - $125",
+			"selected": false
 		}
 	],
 	"skills": [
-		{ "id": 1, "tag": "Engineering Manager" },
+		{ "id": 1, "tag": "Engineering Manager", "selected": false },
 		{
 			"id": 2,
-			"tag": "Architect"
+			"tag": "Architect",
+			"selected": false
 		},
 		{
 			"id": 3,
-			"tag": "Designer"
+			"tag": "Designer",
+			"selected": false
 		},
-		{ "id": 4, "tag": "Engineer" }
+		{ "id": 4, "tag": "Engineer", "selected": false }
 	],
 	"tools": [
 		{
 			"id": 1,
-			"tag": "AutoCAD"
+			"tag": "AutoCAD",
+			"selected": false
 		},
 		{
 			"id": 2,
-			"tag": "Archive"
+			"tag": "Archive",
+			"selected": false
 		},
 		{
 			"id": 3,
-			"tag": "Argo"
+			"tag": "Argo",
+			"selected": false
 		},
 		{
 			"id": 4,
-			"tag": "Archicad"
+			"tag": "Archicad",
+			"selected": false
 		}
 	]
 }
