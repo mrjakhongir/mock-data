@@ -22,33 +22,33 @@
 		}
 	],
 	"skills": [
-		{ "id": 1, "skill": "Engineering Manager" },
+		{ "id": 1, "tag": "Engineering Manager" },
 		{
 			"id": 2,
-			"skill": "Architect"
+			"tag": "Architect"
 		},
 		{
 			"id": 3,
-			"skill": "Designer"
+			"tag": "Designer"
 		},
-		{ "id": 4, "skill": "Engineer" }
+		{ "id": 4, "tag": "Engineer" }
 	],
 	"tools": [
 		{
 			"id": 1,
-			"tool": "AutoCAD"
+			"tag": "AutoCAD"
 		},
 		{
 			"id": 2,
-			"tool": "Archive"
+			"tag": "Archive"
 		},
 		{
 			"id": 3,
-			"tool": "Argo"
+			"tag": "Argo"
 		},
 		{
 			"id": 4,
-			"tool": "Archicad"
+			"tag": "Archicad"
 		}
 	]
 }
