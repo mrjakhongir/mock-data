@@ -70,5 +70,7 @@
 			"isSelected": false
 		}
 	],
-	"bio": []
+	"bio": [],
+	"timezone": {},
+	"extendedHours": {}
 }
