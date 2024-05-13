@@ -97,27 +97,27 @@
 		{
 			"id": 1,
 			"timezone": "+-1 Hour",
-			"isSelected": false
+			"extendedHours": false
 		},
 		{
 			"id": 2,
 			"timezone": "+-2 Hours",
-			"isSelected": false
+			"extendedHours": false
 		},
 		{
 			"id": 3,
 			"timezone": "+-3 Hours",
-			"isSelected": false
+			"extendedHours": false
 		},
 		{
 			"id": 4,
 			"timezone": "+-4 Hours",
-			"isSelected": false
+			"extendedHours": false
 		},
 		{
 			"id": 5,
 			"timezone": "+-5 Hours",
-			"isSelected": false
+			"extendedHours": false
 		}
 	]
 }
