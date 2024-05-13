@@ -26,35 +26,43 @@
 			"isSelected": false
 		}
 	],
-	"skills": [
-		{ "id": 1, "tag": "Engineering Manager", "isSelected": false },
+	"tags": [
+		{
+			"id": 1,
+			"tag": "Engineering Manager",
+			"isSelected": false,
+			"type": "skills"
+		},
 		{
 			"id": 2,
 			"tag": "Architect",
-			"isSelected": false
+			"isSelected": false,
+			"type": "skills"
 		},
 		{
 			"id": 3,
 			"tag": "Designer",
-			"isSelected": false
+			"isSelected": false,
+			"type": "skills"
 		},
-		{ "id": 4, "tag": "Engineer", "isSelected": false }
-	],
-	"tools": [
+		{ "id": 4, "tag": "Engineer", "isSelected": false, "type": "skills" },
 		{
 			"id": 1,
 			"tag": "AutoCAD",
-			"isSelected": false
+			"isSelected": false,
+			"type": "tools"
 		},
 		{
 			"id": 2,
-			"tag": "Archive",
-			"isSelected": false
+			"tag": "Argo",
+			"isSelected": false,
+			"type": "tools"
 		},
 		{
 			"id": 3,
-			"tag": "Argo",
-			"isSelected": false
+			"tag": "Archive",
+			"isSelected": false,
+			"type": "tools"
 		},
 		{
 			"id": 4,
