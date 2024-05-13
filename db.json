@@ -117,7 +117,7 @@
 		{
 			"id": 5,
 			"extendedHours": "+-5 Hours",
-			"isSelected": false
+			"isSelected":false
 		}
 	]
 }
