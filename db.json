@@ -96,28 +96,28 @@
 	"extendedHours": [
 		{
 			"id": 1,
-			"timezone": "+-1 Hour",
-			"extendedHours": false
+			"extendedHours": "+-1 Hour",
+			"isSelected": false
 		},
 		{
 			"id": 2,
-			"timezone": "+-2 Hours",
-			"extendedHours": false
+			"extendedHours": "+-2 Hours",
+			"isSelected": false
 		},
 		{
 			"id": 3,
-			"timezone": "+-3 Hours",
-			"extendedHours": false
+			"extendedHours": "+-3 Hours",
+			"isSelected": false
 		},
 		{
 			"id": 4,
-			"timezone": "+-4 Hours",
-			"extendedHours": false
+			"extendedHours": "+-4 Hours",
+			"isSelected": false
 		},
 		{
 			"id": 5,
-			"timezone": "+-5 Hours",
-			"extendedHours": false
+			"extendedHours": "+-5 Hours",
+			"isSelected": false
 		}
 	]
 }
