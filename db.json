@@ -71,6 +71,53 @@
 		}
 	],
 	"bio": [],
-	"timezone": {},
-	"extendedHours": {}
+	"timezone": [
+		{
+			"id": 1,
+			"timezone": "(GMT-8) Pacific Standard Time(PST)",
+			"isSelected": false
+		},
+		{
+			"id": 2,
+			"timezone": "(GMT-7) Pacific Standard Time(PST)",
+			"isSelected": false
+		},
+		{
+			"id": 3,
+			"timezone": "(GMT-6) Pacific Standard Time(PST)",
+			"isSelected": false
+		},
+		{
+			"id": 4,
+			"timezone": "(GMT-5) Pacific Standard Time(PST)",
+			"isSelected": false
+		}
+	],
+	"extendedHours": [
+		{
+			"id": 1,
+			"timezone": "+-1 Hour",
+			"isSelected": false
+		},
+		{
+			"id": 2,
+			"timezone": "+-2 Hours",
+			"isSelected": false
+		},
+		{
+			"id": 3,
+			"timezone": "+-3 Hours",
+			"isSelected": false
+		},
+		{
+			"id": 4,
+			"timezone": "+-4 Hours",
+			"isSelected": false
+		},
+		{
+			"id": 5,
+			"timezone": "+-5 Hours",
+			"isSelected": false
+		}
+	]
 }
