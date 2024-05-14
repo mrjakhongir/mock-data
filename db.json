@@ -117,7 +117,44 @@
 		{
 			"id": 5,
 			"extendedHours": "+-5 Hours",
-			"isSelected":false
+			"isSelected": false
+		}
+	],
+	"languages": [
+		{
+			"id": 1,
+			"label": "English",
+			"type": "language"
+		},
+		{
+			"id": 2,
+			"label": "French",
+			"type": "language"
+		},
+		{
+			"id": 3,
+			"label": "Uzbek",
+			"type": "language"
+		},
+		{
+			"id": 4,
+			"label": "Arabic",
+			"type": "language"
+		},
+		{
+			"id": 5,
+			"label": "Fluent",
+			"type": "proficiency"
+		},
+		{
+			"id": 6,
+			"label": "Limited Working Proficiency",
+			"type": "proficiency"
+		},
+		{
+			"id": 7,
+			"label": "Professional Working Proficiency",
+			"type": "proficiency"
 		}
 	]
 }
