@@ -156,5 +156,6 @@
 			"label": "Professional Working Proficiency",
 			"type": "proficiency"
 		}
-	]
+	],
+	"selectedLanguages": []
 }
